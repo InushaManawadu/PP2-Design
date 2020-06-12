@@ -1,1 +1,2 @@
-print("Git test")
+first line
+after the commit
